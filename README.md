@@ -1,2 +1,2 @@
 # Dash-Plotly
-Dashboard of animal shelter
+Using Dash plotly a dashboard of animal shelter created 
